@@ -1,3 +1,6 @@
+# https://github.com/Igorbunow
+# Autor igor@gorbunov.tel
+
 IVERILOG = iverilog
 IVERILOG_FLAGS = -Wtimescale
 VVP = vvp
