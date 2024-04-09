@@ -1,0 +1,41 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Tue Nov  3 17:03:54 2020
+[*]
+[dumpfile] "/home/igorbunov/PROJECTS/fpga/ksu3_soft/fpga/libs/spi_master/iverilog/simulation/spi_master.vcd"
+[dumpfile_mtime] "Tue Nov  3 17:01:08 2020"
+[dumpfile_size] 13392
+[savefile] "/home/igorbunov/PROJECTS/fpga/ksu3_soft/fpga/libs/spi_master/iverilog/testbench/spi_master.gtkw"
+[timestart] 1
+[size] 3840 2037
+[pos] 0 43
+*-6.000000 33420 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[treeopen] TOP.tb_spi_master.
+[sst_width] 428
+[signals_width] 303
+[sst_expanded] 1
+[sst_vpaned_height] 634
+@200
+-
+-clocking
+@28
+TOP.tb_spi_master.clk
+TOP.tb_spi_master.rst
+@200
+-
+-control signals
+@28
+TOP.tb_spi_master.start
+TOP.tb_spi_master.start_clear
+TOP.tb_spi_master.start_status
+TOP.tb_spi_master.stop
+@200
+-
+-internal sygnals
+@28
+TOP.tb_spi_master.spi_master_i.cnt[2:0]
+@29
+TOP.tb_spi_master.spi_master_i.state[1:0]
+[pattern_trace] 1
+[pattern_trace] 0
